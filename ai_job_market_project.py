@@ -1,5 +1,4 @@
-"""
-================================================================================
+
 DATA SCIENCE MINOR PROJECT
 Subject: Data Science / Machine Learning
 Title: Analysis of Global AI Job Market & Salary Trends 2025
@@ -17,7 +16,7 @@ REPORT STRUCTURE FOLLOWED:
   5. Conclusion
   6. Future Scope
   7. References
-================================================================─────────────────────────────────────────────────────────
+
 # IMPORTS
 import warnings
 warnings.filterwarnings("ignore")
@@ -60,7 +59,7 @@ ACCENT  = "#4C72B0"
 # ─────────────────────────────────────────────────────────────────
 # SECTION 1 – INTRODUCTION
 # ─────────────────────────────────────────────────────────────────
-print("=" * 72)
+
 print("  SECTION 1 – INTRODUCTION")
 print("=" * 72)
 print("""
