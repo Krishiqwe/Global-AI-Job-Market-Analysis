@@ -18,7 +18,7 @@ and researchers in the AI domain.
 ### 🛠️ Tech Stack
 - **Python** — pandas, NumPy, matplotlib, seaborn, plotly
 - **Jupyter Notebook** — for interactive EDA
-- **Dataset** — [mention your source, e.g., Kaggle / LinkedIn / custom scraped]
+- **Dataset** — kaggle
 
 ### 📊 Analysis Includes
 - Univariate & bivariate EDA
